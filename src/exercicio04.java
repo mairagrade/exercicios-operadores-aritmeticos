@@ -1,4 +1,4 @@
-public class exercicio04 {
+public class Exercicio04 {
     public static void main(String[] args) {
         //Declare duas variáveis do tipo int chamadas largura e altura e inicialize-as com quaisquer valores.
         int largura = 20;
